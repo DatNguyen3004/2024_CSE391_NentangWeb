@@ -1,0 +1,112 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+b{
+    color: #ddd;
+    font-size: 24px;
+}
+
+.nav-item a {
+    font-size: 14px;
+}
+
+.firt {
+    margin-top: 30px;
+}
+
+.firt, .fist-title{
+    background-color: #435D7D;
+}
+
+.fist-title {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #435D7D;
+    
+}
+
+.fist-title .title a{
+    font-size: 28px;
+    text-decoration: none;
+    color: #ddd;
+    background-color: #435D7D;
+}
+
+.btn-del {
+    margin-right: -30px;
+}
+
+ .col-9 ,.btn-del, .btn-add{
+    background-color: #435D7D;
+}
+
+.two .row{
+    padding: 0px 20px;
+}
+
+.check {
+    text-align: center;
+}
+
+.row-title {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.row-conten {
+    margin: 0px;
+    border-bottom: 1px solid #ccc;
+}
+
+.two .row-title p {
+    font-weight: 700;
+}
+
+.two .row p {
+    padding: 0px 10px;
+    padding-top: 10px;
+}
+
+.row-conten:nth-child(even) div p,.row-conten:nth-child(even) div, .row-conten:nth-child(even){
+    background-color: #FCFCFC;
+}
+
+.fa-pen {
+    color: #FFCA2A;
+}
+
+.fa-trash {
+    color: #F45549;
+}
+
+.action i {
+    margin-right: 15px;
+}
+
+
+.f-title p {
+    color: #03A9F4;
+} 
+
+.f-tab ul li {
+    list-style-type: none;
+    padding: 5px 10px;
+}
+
+.f-tab ul li:nth-child(4) {
+    background-color: #03A9F4;
+    color: aliceblue;
+}
+
+.three {
+    margin-top: 20px;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 10px;
+}
